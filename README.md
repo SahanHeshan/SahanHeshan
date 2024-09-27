@@ -1,7 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Sahan Heshan</h1>
 
 # 💫 About Me:
-BSc (Hons) Computer Science Undergraduate  <br>Curious and Constant Learner <br>Computer Science Enthusiast <br>(Currently Studying in the fields of System and Application development, ML and AI algorithms, System and Cyber Security)<br>Humble, Open-minded, and Friendly to All
+- BSc (Hons) Computer Science Undergraduate  <br> - Curious and Constant Learner <br> - Computer Science Enthusiast <br> - Studying Full Satck development, ML and AI algorithms, System and Cyber Security <br> - Humble, Open-minded, and Friendly to All
 
 
 
@@ -10,8 +10,9 @@ BSc (Hons) Computer Science Undergraduate  <br>Curious and Constant Learner <br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SahanHeshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SahanHeshan&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahanHeshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SahanHeshan&theme=dark&hide_border=false)
+
 
 
 ## 🏆 GitHub Trophies
