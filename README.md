@@ -92,7 +92,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SahanHeshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanHeshan&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanHeshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=450&card_height=195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanHeshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  
 </div>
 <br>
 
@@ -100,6 +101,7 @@
     <img src="https://visitcount.itsvg.in/api?id=SahanHeshan&icon=0&color=8" alt="Visitor Count" />
 </a>
 <!---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanHeshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=450&card_height=195" alt="Top Languages" />
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SahanHeshan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
