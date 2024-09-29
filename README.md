@@ -15,7 +15,7 @@
   <thead>
     <tr>
       <th>Category</th>
-      <th>Technologies</th>
+      <th></th>
     </tr>
   </thead>
   <tbody>
@@ -81,7 +81,7 @@
     <tr>
       <td><strong>Design</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" /> <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" height="30" alt="Cisco" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="Postman" />
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git" /> <img     src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" /> <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" height="30" alt="Cisco" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="Postman" />
       </td>
     </tr>
   </tbody>
@@ -89,12 +89,14 @@
 <br>
 
 # GitHub Stats: 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahanHeshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanHeshan&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanHeshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-  
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahanHeshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="max-width: 450px; width: 45%;" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanHeshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="max-width: 450px; width: 35%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanHeshan&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="max-width: 450px; width: 45%;" />
+
 </div>
+
+
 <br>
 
 <a href="https://visitcount.itsvg.in">
