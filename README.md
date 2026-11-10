@@ -97,10 +97,3 @@
 </table>
 
 <br>
-
-# GitHub Stats:
-<div style="display: flex; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahanHeshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanHeshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="35%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanHeshan&theme=dark&hide_border=false" width="45%" />
-</div>
